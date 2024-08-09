@@ -1,16 +1,15 @@
-## Hi there 👋
+                                                      ✦BEM VINDOS AO MEU PERFIL✦
 
-<!--
-**JEM1B07/JEM1B07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⇨ Meu nome é Elizabeth Nunêz
 
-Here are some ideas to get you started:
+⇨ Estou estudando no [alura](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⇨ Tenho um pouco de dificuldades para prender,
+
+⇨ Estou desenvolvendo o [JAVASCRIPT](link)
+
+⇨ Vou usar o ![GITHUB](link) para desenvolver meus projetos, arquivos e organizar-los
+
+
+➥ VOCÊ PODE ENTRAR EM CONTATO COMIGO☑
+
